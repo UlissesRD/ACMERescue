@@ -21,7 +21,7 @@ If you don't have an IDE, you can choose one according to your preference, but I
 
 In the initial menu of the application, you can choose whether you want to register an event, a team, a piece of equipment, or an attendance.
 
-Furthermore, we have the option to display the already registered data, to link a piece of equipment to a team, to allocate an attendance to an event, to consult an attendance, to change the status of an attendance, to load existing initial data instead of typing everything from scratch, to clear the text box, or to exit the program.
+Furthermore, we have the option to display the already registered data, to link a piece of equipment to a team, to allocate an attendance to an event, to consult an attendance, to change the status of an attendance, to load existing initial data instead of typing everything from scratch(tested for excel archive), to clear the text box, or to exit the program.
 
 ### Observations🔎
 
